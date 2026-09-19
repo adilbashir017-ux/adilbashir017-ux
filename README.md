@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Adel Bashir 👋
 
-<!--
-**adilbashir017-ux/adilbashir017-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Software Engineering student at Braude College of Engineering.
 
-Here are some ideas to get you started:
+💻 Interested in Software Engineering, Full-Stack Development, Java, Python, AI Integration, and Applied Cryptography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** Java, Python, JavaScript
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Other:** Git, REST APIs, Object-Oriented Programming
+
+## 🚀 Featured Projects
+
+### PainCare Assistant
+Full-stack pain management platform for patients and doctors, built with React, Node.js, Express, and MongoDB, with AI integration.
+
+[View Project](https://github.com/adilbashir017-ux/pain-management-project)
+
+### Bistro – Restaurant Management System
+Client-server restaurant management application built with Java, JavaFX, OCSF, and MySQL.
+
+[View Project](https://github.com/adilbashir017-ux/Bistro-project)
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/adel-bashir/)
